@@ -112,7 +112,7 @@ Open each epic, review recent activity, write update.
 - Note blockers if any
 
 **Good Examples:**
-- "Pilot with Live Nation touring and select clients successful. Beginning phased rollout by market over next 4 weeks. Release delayed 1 day to Tuesday 3/25 due to incident affecting testing. Mobile work begins Sprint 26.2.1."
+- "Pilot with XX touring and select clients successful. Beginning phased rollout by market over next 4 weeks. Release delayed 1 day to Tuesday 3/25 due to incident affecting testing. Mobile work begins Sprint 26.2.1."
 - "8 of 11 tickets (73%) shipped in Tuesday release. Remaining 3 tickets complete next sprint. Dashboard pilot scheduled with Finance team for March 20."
 - "Data team dependency resolved. Front-end development complete. Backend work begins this sprint, targeting April 3 release."
 
@@ -418,7 +418,7 @@ A: Yes! Adjust cadence to match your organization. Weekly is great for fast-movi
    - RAG: On Track
 
 2. **VIP International Expansion** (PROJ-200)
-   - Latest Update: "Data team dependency on LA-5300 resolved. Front-end work complete. Backend development begins Sprint 26.2.1, targeting 4/3 release."
+   - Latest Update: "Data team dependency on PROJ-5300 resolved. Front-end work complete. Backend development begins Sprint 26.2.1, targeting 4/3 release."
    - RAG: On Track
 
 3. **Payment Integration** (PROJ-300)
