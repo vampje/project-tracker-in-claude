@@ -138,7 +138,7 @@ At end of week, scan your daily log for:
   - See "VIP Dashboard" above for notes
 
 ### Next Actions
-- ⏳ Wait for Data team to confirm LA-5300 timeline (due Mon 3/18)
+- ⏳ Wait for Data team to confirm PROJ-5300 timeline (due Mon 3/18)
 - 📅 Schedule follow-up with Finance after export work done
 - ◻️ Product accept Tuesday 3/18 release (Mon 3/17)
 ```
